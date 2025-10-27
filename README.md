@@ -116,7 +116,7 @@ This part is mostly about intro action. You can use about 400 words, and a table
   - How did you deal with **uncertainty** in the ideation process?
   - Which choices or behaviors had the most impact on your team’s progress?
   - How did you communicate/pitch your ideas to others, and what feedback did you receive?
-- 3: Compare your own experience with how one entrepreneur from the podcasts or lectures described acting under uncertainty, making decisions, or pitching. Refer to at least two specific insights collected from two different guest lectures and/or podcasts.
+- Compare your own experience with how one entrepreneur from the podcasts or lectures described acting under uncertainty, making decisions, or pitching. Refer to at least two specific insights collected from two different guest lectures and/or podcasts.
 
 ## Part 4: Personal Development Plan
 
